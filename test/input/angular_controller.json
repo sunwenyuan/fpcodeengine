@@ -1,0 +1,19 @@
+{
+  "fileType": "JavaScript",
+  "mode": "AngularJS",
+  "moduleName": "first-module",
+  "moduleType": "controller",
+  "subModuleName": "FirstController",
+  "dependency": ["ngRoute"],
+  "injected": [],
+  "model": [{
+    "name": "show",
+    "type": "Boolean",
+    "default": false
+  }, {
+    "name": "name",
+    "type": "String",
+    "default": ""
+  }],
+  "methods": []
+}
